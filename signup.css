@@ -1,0 +1,68 @@
+*{
+    font-style:inherit;
+    color:rgb(0, 0, 0);
+    background-size: cover;
+}
+body{
+    background-image: url(https://images.pexels.com/photos/8960464/pexels-photo-8960464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+}
+.ddd{
+        position: absolute;
+        top: 50px;
+        right: 630;
+        font-size:30px;
+    }   
+.eee{
+    position: absolute;
+    top: 50px;
+    right: 230;   font-size:30px;
+}
+.fff{
+    position: absolute;
+    top: 50px;
+    right: 410;
+    font-size:30px;
+}
+.background {
+ 
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .signup-container {
+
+    padding: 40px;
+    max-width: 400px;
+    text-align: center;
+  }
+  
+  h1 {
+    margin-top: 0;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  .Head
+  {
+    text-align: center;
+  }

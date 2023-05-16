@@ -1,0 +1,56 @@
+*
+{
+    background-size: cover;
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body
+{
+    background-image:url(https://images.pexels.com/photos/3165335/pexels-photo-3165335.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    height: 760px;
+    text-align: center;
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: antiquewhite;
+    text-align: center;
+}
+.container
+{
+    animation: mymove 5s infinite;
+    text-align: left;
+    position: absolute;
+    left: 100px;
+    max-width: 50rem;
+    margin: 2rem auto;
+    padding: 0px 2rem;
+    border:1px solid;
+    height: 700px;
+    width:700px;
+    background-color: rgb(125, 18, 255);
+}
+@keyframes mymove{
+    50% {box-shadow: 10px 20px 30px rgb(164, 44, 220);} 
+}
+
+.tom
+{
+    position:absolute;
+    left:1078px;
+    bottom: 200px;
+    height:300px;
+}
+.text
+{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.GFG
+{
+    position:absolute;
+    left:1000px;
+    width:120px;
+    top: 560px;
+    color: rgb(179, 0, 255);
+    background-color: black;
+}

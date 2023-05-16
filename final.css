@@ -1,0 +1,31 @@
+body{
+    background-image: url(https://images.pexels.com/photos/5025669/pexels-photo-5025669.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+}
+.box
+{
+    position: relative;
+    left: 100px;
+}
+.text
+{
+    background-color: beige;
+ position: relative;
+ left: 30px;
+}
+.head
+{
+    text-align: center;
+}
+.card
+{
+    background-color: beige;
+    position: relative;
+    top: 80px;
+    right: 200px;
+}
+.btn
+{
+    position: relative;
+    left:50px;bottom:2px;
+}

@@ -1,0 +1,126 @@
+
+body {
+    background-image: url(https://images.pexels.com/photos/1038916/pexels-photo-1038916.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+}
+h1 {
+  text-align: center;
+}
+.cd-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+.cd-item {
+  width: 200px;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-align: center;
+}
+.head
+{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:rgb(0, 0, 0);
+    background-color: rgb(0, 255, 26);
+}
+.God
+{
+    color: rgb(255, 255, 255);
+    font-style: inherit;
+}
+.price
+{
+    color:rgb(255, 0, 0);
+    font-style:initial;
+    font-family:serif;
+    font-size: medium;
+}
+.img1
+{
+    
+    position: absolute;
+    right:300px;
+    width: 600px;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+}
+.img2
+{
+    width: 600px;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+}
+.img3
+{
+    position:absolute;
+    left:300px;
+    top:90px;
+    width: 600px;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+}
+.img4
+{
+    position:absolute;
+    left:850px;
+    top:90px;
+    width: 600px;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+}
+.img5
+{
+    position: absolute;
+    top: 500px;
+    width: 600px;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+}
+.img6
+{
+    position: absolute;
+    right:600px;
+    top: 500px;
+    width: 600px;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+}
+.img7
+{
+    position:absolute;
+    left:600px;
+    top:500px;
+    width: 600px;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+}
+.img8
+{
+    position: absolute;
+    top: 500px;
+    right: 30px;
+    width: 600px;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+}
+.btn
+{
+    position: relative;
+    top: 750px;
+    left: 700px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 0, 0);
+}

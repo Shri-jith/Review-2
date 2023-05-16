@@ -1,0 +1,76 @@
+body
+{
+    background-image:url("https://wallpapercave.com/wp/wp11417661.jpg");
+    background-size: cover;
+    height: 760px;
+}
+.login 
+{
+    position:absolute;
+    right:50px;
+    top:100px;
+
+}
+.sign
+{
+    position: absolute;
+    right:190px;
+    top:100px;
+}
+.tank
+{
+    text-align: left;
+    position: absolute;
+    left: 30px;
+    top:10px;
+    max-width: 50rem;
+    margin: 2rem auto;
+    padding: 0px 2rem;
+    border:1px solid;
+    background-color: rgb(192, 65, 18);
+    height: 400px;
+    width:200px;}
+.tank1
+{
+    text-align: left;
+    position: absolute;
+    left: 250px;
+    top:10px;
+    max-width: 50rem;
+    margin: 2rem auto;
+    padding: 0px 2rem;
+    border:1px solid;
+    background-color: rgb(192, 65, 18);
+    height: 400px;
+    width:200px;}
+.Terms{
+color: rgb(183, 49, 0);
+opacity: 90%;
+position:absolute;
+top: 650px;
+right:5px;
+}
+.pay
+{
+    position: absolute;
+    left: 50px;
+}
+.waytothird
+{
+    position: absolute;
+    right:150px;
+    bottom:300px;
+}
+.waytofourth
+{
+    position: absolute;
+    right:110px;
+    bottom:250px;
+}
+.tom
+{
+    position:absolute;
+    right:160px;
+    bottom: 335px;
+    height:150px;
+}

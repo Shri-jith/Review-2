@@ -1,0 +1,28 @@
+body{
+    background-image: url(https://images.pexels.com/photos/7821738/pexels-photo-7821738.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size:cover;
+}
+.Name
+{
+    position: absolute;
+    left:100px;
+}
+.texxt
+{
+    text-align: center;
+}
+.box
+{
+    position: absolute;
+    left: 830px;
+}
+.boox
+{
+    position:relative;
+    left:720px;
+}
+.sub
+{
+    position: relative;
+    left:100px;
+}
